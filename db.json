@@ -1,0 +1,30 @@
+{
+  "logs": [
+    {
+      "message": "Added server card in machin 888",
+      "attention": "",
+      "tech": "John Doe",
+      "date": "2019-07-03T23:31:05.451Z",
+      "id": 3
+    },
+    {
+      "message": "software installed",
+      "attention": "",
+      "tech": "John Doe",
+      "date": "2019-07-05T15:48:31.818Z",
+      "id": 4
+    }
+  ],
+  "techs": [
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "suresh1",
+      "lastName": "anbazhagan"
+    }
+  ]
+}
